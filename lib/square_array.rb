@@ -3,6 +3,7 @@ def square_array(array)
   
   i = 0
   while i < array.length do
-    new_arr.push(Math.s)
+    new_arr.push(Math.sqrt(i))
   end
+  new_arr
 end
